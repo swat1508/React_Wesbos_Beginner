@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+
+
+mongodb://swat1508:april2020@ds151070.mlab.com:51070/academind-training
